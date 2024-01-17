@@ -9,6 +9,12 @@
         src="http://img.shields.io/badge/-디오라마작업기-black?style=flat&logo=Instagram&link=https://www.instagram.com/rtree_diorama/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://www.instagram.com/rtree_diorama/">
+    <img 
+        src="http://img.shields.io/badge/-NAVER EMAIL-03C75A?style=flat-square&logo=Naver&link=lukas0409@naver.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 
 ### Stats
 ![js](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
