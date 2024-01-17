@@ -1,4 +1,3 @@
-
 ### SNS
 <a href="https://www.instagram.com/trans_spoter_ajw/">
     <img 
@@ -11,6 +10,9 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+### Stats
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white
 
 ### Hi there 👋
 
