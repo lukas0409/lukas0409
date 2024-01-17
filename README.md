@@ -20,3 +20,6 @@
 
 지금은 R-TREE(로봇트리)에서 [@sunsanlsm](https://github.com/sunsanlsm) 외 2명과 (깃허브가 없네요)  
 아두이노와 라즈베리파이를 이용한 '도시 디오라마 제작 프로젝트' 를 진행 중에 있습니다.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukas0409)](https://github.com/anuraghazra/github-readme-stats)
+[![Jewwook's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukas0409)](https://github.com/anuraghazra/github-readme-stats)
