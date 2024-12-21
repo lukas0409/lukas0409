@@ -11,7 +11,7 @@
 </a>
 <a href="https://www.youtube.com/@%EA%B5%AC%EB%AF%B8%EC%97%AD%EC%A7%80%EB%B0%95%EB%A0%B9">
     <img 
-        src="http://img.shields.io/badge/-구미역지박-red?style=flat&logo=Youtube&link=https://www.youtube.com/@%EA%B5%AC%EB%AF%B8%EC%97%AD%EC%A7%80%EB%B0%95%EB%A0%B9"
+        src="http://img.shields.io/badge/-구미역지박령-red?style=flat&logo=Youtube&link=https://www.youtube.com/@%EA%B5%AC%EB%AF%B8%EC%97%AD%EC%A7%80%EB%B0%95%EB%A0%B9"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
