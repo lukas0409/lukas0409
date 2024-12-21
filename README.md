@@ -1,5 +1,5 @@
 ### SNS
-<a href="https://www.instagram.com/trans_spoter_ajw/">
+<a href="https://www.instagram.com/gm.st_ghost/">
     <img 
         src="http://img.shields.io/badge/-본계정(교통일상계)-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
