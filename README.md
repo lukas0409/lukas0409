@@ -1,7 +1,7 @@
 ### SNS
 <a href="https://www.instagram.com/gm.st_ghost/">
     <img 
-        src="http://img.shields.io/badge/-본계정(교통일상계)-black?style=flat&logo=Instagram&link=https://www.instagram.com/gm.st_ghost/"
+        src="http://img.shields.io/badge/-gm.st_ghost-black?style=flat&logo=Instagram&link=https://www.instagram.com/gm.st_ghost/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://www.youtube.com/@%EC%A4%91%EC%95%99%EC%84%A0_%EC%9E%91%EB%B3%84_%EC%9C%84%EC%9B%90%ED%9A%8C">
